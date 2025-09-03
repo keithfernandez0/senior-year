@@ -11,12 +11,14 @@
             "id": "63f703227918a1c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "fall/gpu/gpu.pdf"
+                "file": "fall/gpu/001_introduction/notes.ipynb.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "gpu"
+              "icon": "lucide-file",
+              "title": "notes.ipynb"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fall/gpu/gpu.pdf",
+                "file": "fall/gpu/001_introduction/notes.ipynb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gpu"
+              "title": "Backlinks for notes.ipynb"
             }
           },
           {
@@ -139,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fall/gpu/gpu.pdf",
+                "file": "fall/gpu/001_introduction/notes.ipynb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gpu"
+              "title": "Outline of notes.ipynb"
             }
           }
         ],
@@ -168,8 +170,8 @@
   },
   "active": "63f703227918a1c1",
   "lastOpenFiles": [
-    "fall/gpu/001_introduction/notes.md",
     "fall/gpu/gpu.pdf",
+    "fall/gpu/001_introduction/notes.ipynb.md",
     "fall/algorithms/syllabus.pdf",
     "fall/databases/syllabus.pdf",
     "fall/databases/Database Systems_ A Practical Approach to Design, -- Begg, Carolyn E_; Connolly, Thomas M -- 6_ ed, 2014;2015 -- Pearson Higher Education & -- 9780132943260 -- dc4d67766bacf1e3667e002649619ac5 -- Anna’s Archive.pdf",
@@ -202,7 +204,6 @@
     "fall/databases/016_display_images/notes.md",
     "fall/databases/008_joins/notes.md",
     "fall/databases/003_web_php/notes.md",
-    "fall/databases/019_stored_routines/notes.md",
-    "fall/databases/013_create_insert_updated_del/notes.md"
+    "fall/databases/019_stored_routines/notes.md"
   ]
 }
