@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "85e7f5153ea5f8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59825d2f2b086cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f703227918a1c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9077e2a051bc9b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c5bad79e6f3268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e981f1eafcdc090a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b73c322e312e9e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09aa5bf306aea719",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c3c49bf8de507ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "208bf499201df897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2834990bc0d8155d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "82bf18cedafc5d15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "26d7482bf41c0cd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4fe05ca565bce56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e981f1eafcdc090a",
+  "lastOpenFiles": [
+    "fall/algorithms/004_treegraph_algos/notes.md",
+    "fall/algorithms/002_divide_and_conquer/notes.md",
+    "fall/algorithms/006_linear_sorting/notes.md",
+    "fall/algorithms/010_topology_sort/notes.md",
+    "fall/algorithms/009_greedy_algos_string_matching/notes.md",
+    "fall/algorithms/008_properties_and_strategies/notes.md",
+    "fall/algorithms/007_median_order_statistics/notes.md",
+    "fall/algorithms/011_min_spanning_trees/notes.md",
+    "fall/algorithms/012_shortest_paths/notes.md",
+    "fall/algorithms/003_sorting_searching/notes.md",
+    "fall/algorithms/001_introduction/notes.md",
+    "fall/algorithms/005_searching_and_sorting/notes.md",
+    "fall/algorithms/014_np_completeness/notes.md",
+    "fall/algorithms/013_max_flow_bipartite/notes.md",
+    "fall/algorithms/notes.md",
+    "fall/algorithms/014_np_completeness",
+    "fall/algorithms/013_max_flow_bipartite",
+    "fall/algorithms/012_shortest_paths",
+    "fall/algorithms/011_min_spanning_trees",
+    "fall/algorithms/010_topology_sort",
+    "fall/algorithms/009_greedy_algos_string_matching",
+    "fall/algorithms/008_properties_and_strategies",
+    "fall/algorithms/007_median_order_statistics",
+    "fall/algorithms/006_linear_sorting",
+    "fall/algorithms/005_searching_and_sorting",
+    "fall/databases/006_web_cookies/notes.md",
+    "fall/databases/009_mysql_workbench/notes.md",
+    "fall/databases/024_transactions/notes.md",
+    "fall/databases/017_sqlvars_routines/notes.md",
+    "fall/databases/026_final/notes.md",
+    "fall/databases/016_display_images/notes.md",
+    "fall/databases/008_joins/notes.md",
+    "fall/databases/003_web_php/notes.md",
+    "fall/databases/019_stored_routines/notes.md",
+    "fall/databases/013_create_insert_updated_del/notes.md",
+    "fall/databases/015_advanced_php/notes.md"
+  ]
+}
