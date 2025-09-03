@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fall/gpu/001_introduction/notes.ipynb.md",
+                "file": "fall/gpu/001_introduction/day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes.ipynb"
+              "title": "day 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fall/gpu/001_introduction/notes.ipynb.md",
+                "file": "fall/gpu/001_introduction/day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for notes.ipynb"
+              "title": "Backlinks for day 1"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fall/gpu/001_introduction/notes.ipynb.md",
+                "file": "fall/gpu/001_introduction/day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes.ipynb"
+              "title": "Outline of day 1"
             }
           }
         ],
@@ -171,7 +171,7 @@
   "active": "63f703227918a1c1",
   "lastOpenFiles": [
     "fall/gpu/gpu.pdf",
-    "fall/gpu/001_introduction/notes.ipynb.md",
+    "fall/gpu/001_introduction/day 1.md",
     "fall/algorithms/syllabus.pdf",
     "fall/databases/syllabus.pdf",
     "fall/databases/Database Systems_ A Practical Approach to Design, -- Begg, Carolyn E_; Connolly, Thomas M -- 6_ ed, 2014;2015 -- Pearson Higher Education & -- 9780132943260 -- dc4d67766bacf1e3667e002649619ac5 -- Anna’s Archive.pdf",
