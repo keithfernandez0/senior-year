@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "fall/algorithms/syllabus.pdf"
+                "file": "fall/gpu/gpu.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "syllabus"
+              "title": "gpu"
             }
           }
         ]
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fall/gpu/gpu.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for gpu"
             }
           },
           {
@@ -138,20 +139,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "fall/gpu/gpu.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of gpu"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +166,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e981f1eafcdc090a",
+  "active": "63f703227918a1c1",
   "lastOpenFiles": [
+    "fall/gpu/001_introduction/notes.md",
+    "fall/gpu/gpu.pdf",
+    "fall/algorithms/syllabus.pdf",
     "fall/databases/syllabus.pdf",
     "fall/databases/Database Systems_ A Practical Approach to Design, -- Begg, Carolyn E_; Connolly, Thomas M -- 6_ ed, 2014;2015 -- Pearson Higher Education & -- 9780132943260 -- dc4d67766bacf1e3667e002649619ac5 -- Anna’s Archive.pdf",
     "fall/databases/databases.pdf",
-    "fall/algorithms/syllabus.pdf",
     "fall/algorithms/004_treegraph_algos/notes.md",
     "fall/algorithms/002_divide_and_conquer/notes.md",
     "fall/algorithms/006_linear_sorting/notes.md",
@@ -190,8 +194,6 @@
     "fall/algorithms/012_shortest_paths",
     "fall/algorithms/011_min_spanning_trees",
     "fall/algorithms/010_topology_sort",
-    "fall/algorithms/009_greedy_algos_string_matching",
-    "fall/algorithms/008_properties_and_strategies",
     "fall/databases/006_web_cookies/notes.md",
     "fall/databases/009_mysql_workbench/notes.md",
     "fall/databases/024_transactions/notes.md",
