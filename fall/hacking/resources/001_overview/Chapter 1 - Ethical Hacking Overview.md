@@ -1,0 +1,46 @@
+## Module objectives
+- By the end of the module
+	- Describe the role of an ethical hacker
+	- Describe what you **can** do legally as an ethical hacker
+	- Describe what you **cannot** do legally as an ethical hacker
+## Introduction to ethical hacking
+- **Ethical hackers:** hired contractors
+	- penetration test / pentest: attempts to break into a company or adversary's network to find weak links
+- **Vulnerability assessments:** testers attempt to enumerate all vulns on an app or system
+- **Security test:** tester scans the company SOP
+	- Test then reports vulns to boss 
+## The role of pentesters
+- **Hackers** access computer systems or networks
+	- Can be considered breaking the law, can go to prison
+- **Crackers** break into systems to steal or destroy data, labelling all illegal access to computers as hacking
+- **Ethical hackers** perform most or all of the same activities as a hacker does, with permission from the owner of the network or company
+- **Script kiddies / skids** are towards younger, inexperienced people who copy code or use tools created by knowledgeable programmers with understand how they work
+- Programs used by experienced pentesters:
+	- Used to carry out attacks
+	- Python, Ruby, C, Perl, SQL, etc.
+	- Scripts
+		- Sets of instructions (see BASH language)
+		- Runs in sequence to perform tasks
+- **Hacktivist** is a person who hacks computer systems for political or social reasons
+- **Pentesters** usually have a laptop computer with multiboots/hacking tools
+	- Job requirements 
+		- Perform vulns, attacks, and pentest reports
+		- In internet, intranet, and wireless / IOT
+	- Perform port scanning and discovery
+	- Apply appropriate exploits to gain access and expand access
+	- Participates in activities
+		- Application hacking and application source code review
+	- Interact with clients as required through contractual engagement
+	- Debriefs client
+	- Participates in research to improve own skillset and knowledge sharing
+	- Demonstrates good understanding of current country, state, and city cyber laws
+## Penetration testing methodologies
+- **White/clear box model:** the tester is told what network layout and hardware the company is using, alongside with a floorplan of the building's physical layout
+	- The tester is permitted to interview IT personnel and company employees
+		- Makes the pentester's job easier
+-  **Black box model:** staff is not aware of the test, and the tester is not given any information prior about the company technologies being used
+	- Burden is on the tester to find details using different techniques
+	- Test security personnel's ability to detect an attack
+- **Grey-box model:** Hybrid of the white and black box models
+	- Company gives the pentester limited or otherwise partial information
+		- *Ex: OSs are used, but the test is not given any network diagrams.*
