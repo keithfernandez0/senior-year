@@ -3,13 +3,16 @@
 - Evaluate functions of a DBMS
 - Personnel involved in the DBMS environment
 - Advantages and disadvantages of DBMS
+---
 ## Examples of database applications
 - Purchases from the supermarket
 - Purchases with your credit card
+---
 ## File based databases and processing
 - Collection of application programs that perform services for the end users (ex: reports)
 - Each program defines and manages its own data
 - Example: MS Excel
+---
 ## File-based processing of data
 - Excel -- a file based data storage
 	- Column, rows
@@ -21,6 +24,7 @@
 	- Table functions: search, replace, AVG, SUM, etc.
 	- Security: can lock data at file level
 	- Compare two data cells in two different worksheets
+---
 ## Limitations of file-based approach
 - Separation and isolation of data
 	- Each program maintains its own set of data
@@ -35,18 +39,21 @@
 - Fixed queries/proliferation of application programs
 	- Programs are written to satisfy particular functions
 	- Any new requirement needs a new program
+---
 ## Database approach
 - Arose because:
 	- Definition of data was embedded in application programs, rather than being stored separately and independently
 	- No control over access and manipulation of data beyond that imposed by application programs
 - Result
 	- Database management system (DBMS)
+---
 ## Databases
 - Shared collection of logically related data with description, designed to meet the information needs of an organization
 - System catalog (metadata) provides description of data to enable program-data independence
 - Logically related data comprises entities, attributes, and relationships of an organization's information/
 - A software system that enables users to define, create, maintain, and control access to the DB
 - DB application program: a computer program that interacts with DB by issuing an appropriate request (SQL) to DBMS.
+---
 ## Components of DBMS environment
 - Machine
 	- Hardware
@@ -65,6 +72,7 @@
 		- Database designers (logical and physical)
 		- Application programmers
 		- End users (naive and sophisticated)
+---
 ## Functions of a DBMS
 - A user accesible catalogue
 - Transaction support
@@ -75,6 +83,7 @@
 - integrity services
 - services to promote data independence
 - utility services
+---
 ## From Excel to a database
 - A file --> a database
 - A worksheet --> a table
@@ -91,6 +100,7 @@
 	- Privilege level (data control langyage, DCL): grant, revoke
 - Macro --> stored procedure
 - All these above functions need a powerful system
+---
 ## Advantages of DBMSs
 - Control of data redundancy
 - data consistency
@@ -106,6 +116,7 @@
 - improved maintenance through data independence
 - increased concurrency
 - improved backup and recovery services
+---
 ## Disadvantages of DBMSs
 - Why the below are disadvantages?
 	- complexity

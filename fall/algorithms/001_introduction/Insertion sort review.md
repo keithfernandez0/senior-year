@@ -37,9 +37,7 @@
   * \$f(n) = n^2\$ and \$f(n) = n^3\$ grow much faster.
   * \$f(n) = 2^n\$ explodes — it becomes impractical very quickly.
 * Plain English: this is why exponential-time algorithms are “hopeless” for large inputs — they outgrow feasible computing power almost immediately.
-
 ---
-
 ## Asymptotic performance
 
 * Once \$n\$ is large enough, even small constants don’t matter — growth rate dominates.

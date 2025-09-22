@@ -1,7 +1,7 @@
 ## Alternative terminology for relational model
 - a relation is a table
 - a table is not necessarily a relation
-
+---
 ## Basic SQL
 - How does a user communicate with the database?
 - SQL
@@ -9,6 +9,7 @@
 	- Considered one of the major reasons for the commercial success of relational databases
 - Each statement in SQL ends with a semicolon
 - Different DBMSs might have different syntax
+---
 ## Objectives
 - Purpose and importance of SQL
 - How to retrieve data from the database using `SELECT` and:
@@ -19,6 +20,7 @@
 - join tables together
 	- perform set operations: `UNION`, `INTERSECT`, `EXCEPT`
 	- how to update database using `INSERT`, `UPDATE`, `DELETE`
+---
 ## SELECT statement with aggregates
 - COUNT - returns number of values in column
 - SUM - returns sum of values in col
@@ -39,11 +41,11 @@
 - Aggregate functions can be used only in SELECT list and in HAVING clause
 	- SELECT staffNo, COUNT(salary) FROM dreamhome.Staff;
 	- SELECT COUNT(\*) AS myCount FROM dreamhome.PropertyForRent WHERE rent > 350;
+---
 ## Restricted groupings - HAVING clause
 - HAVING clause is designed for use with GROUP BY t restrict groups that appear in final result tab
 - WHERE filters individual rows, whereas HAVING filters groups
 - Column names in HAVING clause must also appear in the GROUP BY list or be contained within an aggregate function
-  
 ```sql
 SELECT branchNo, COUNT(staffNo) as myCount,
 	  SUM(salary) as mySum
@@ -52,4 +54,5 @@ GROUP BY branchNo
 HAVING COUNT(staffNo) > 1
 ORDER BY branchNo;
   ```
+---
 
