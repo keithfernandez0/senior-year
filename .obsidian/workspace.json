@@ -139,6 +139,8 @@
   },
   "active": "d144c84d59d6a5a2",
   "lastOpenFiles": [
+    "fall/proofs/003_contrapositives_biconditionals/indirectproofsbycontrapositive.rnote",
+    "fall/proofs/002_directproof/harderdirectproofs.rnote",
     "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf",
     "fall/databases/001_introduction/Chapter 1 - Introduction to databases.md",
     "fall/databases/002_basic_sql/Structure Query Language Data Manipulation.md",
@@ -171,8 +173,6 @@
     "fall/hacking/resources/010_webhacking",
     "fall/hacking/resources/009_embedded_os",
     "fall/hacking/resources/008_os_vulns",
-    "fall/hacking/resources/007_midterm",
-    "fall/hacking/resources/006_secure_programming",
     "fall/hacking/resources/002_tcp_ip/Chapter 2 - TCP+IP Concepts.md",
     "fall/hacking/resources/001_overview/Chapter 1 - Ethical Hacking Overview.md",
     "fall/hacking/resources/NETW238-textbook.png",
