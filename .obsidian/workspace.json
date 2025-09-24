@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf"
+                "file": "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CPS3740_day05_ch03_29_PHP_CGI"
+              "title": "CPS3740_day06_ch06_set_subquery"
             }
           }
         ]
@@ -31,13 +31,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fall/databases/003_web_php/Database architectures and the web transparencies.md",
+                "file": "fall/databases/008_joins/Sets and subqueries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Database architectures and the web transparencies"
+              "title": "Sets and subqueries"
             }
           }
         ]
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "right": {
     "id": "c3c49bf8de507ba5",
@@ -139,9 +138,12 @@
   },
   "active": "d144c84d59d6a5a2",
   "lastOpenFiles": [
+    "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf",
+    "fall/databases/008_joins/Sets and subqueries.md",
+    "fall/databases/003_web_php/Database architectures and the web transparencies.md",
+    "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf",
     "fall/proofs/003_contrapositives_biconditionals/indirectproofsbycontrapositive.rnote",
     "fall/proofs/002_directproof/harderdirectproofs.rnote",
-    "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf",
     "fall/databases/001_introduction/Chapter 1 - Introduction to databases.md",
     "fall/databases/002_basic_sql/Structure Query Language Data Manipulation.md",
     "fall/algorithms/001_introduction/Analysis of Algorithms Course Overview.md",
@@ -171,10 +173,6 @@
     "fall/hacking/resources/012_cryptography",
     "fall/hacking/resources/011_wireless",
     "fall/hacking/resources/010_webhacking",
-    "fall/hacking/resources/009_embedded_os",
-    "fall/hacking/resources/008_os_vulns",
-    "fall/hacking/resources/002_tcp_ip/Chapter 2 - TCP+IP Concepts.md",
-    "fall/hacking/resources/001_overview/Chapter 1 - Ethical Hacking Overview.md",
     "fall/hacking/resources/NETW238-textbook.png",
     "fall/hacking/resources/Resources/IMG_0930.JPG",
     "fall/hacking/resources/Resources/IMG_0395.PNG",
