@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "CPS3740_day06_ch06_set_subquery"
             }
+          },
+          {
+            "id": "801826a3888d94cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,8 +128,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e981f1eafcdc090a",
+  "active": "801826a3888d94cf",
   "lastOpenFiles": [
+    "fall/proofs/007_sets/set_theory.rnote",
+    "fall/proofs/005_contradictions/contradictions.rnote",
+    "fall/proofs/contradictions.rnote",
     "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf",
     "fall/databases/008_joins/Sets and subqueries.md",
     "fall/databases/003_web_php/Database architectures and the web transparencies.md",
@@ -150,8 +166,6 @@
     "fall/hacking/resources/014_finals",
     "fall/hacking/resources/013_network_protections",
     "fall/hacking/resources/012_cryptography",
-    "fall/hacking/resources/011_wireless",
-    "fall/hacking/resources/010_webhacking",
     "fall/hacking/resources/NETW238-textbook.png",
     "fall/hacking/resources/Resources/IMG_0930.JPG",
     "fall/hacking/resources/Resources/IMG_0395.PNG",
