@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e286bf57278d41ef",
+        "id": "c0caad73d876535c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad53f5e10042b542",
+            "id": "b812157fc24648fb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CPS3740_day06_ch06_set_subquery"
-            }
-          },
-          {
-            "id": "801826a3888d94cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +113,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801826a3888d94cf",
+  "active": "b812157fc24648fb",
   "lastOpenFiles": [
+    "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf",
     "fall/proofs/007_sets/set_theory.rnote",
     "fall/proofs/005_contradictions/contradictions.rnote",
     "fall/proofs/contradictions.rnote",
-    "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf",
     "fall/databases/008_joins/Sets and subqueries.md",
     "fall/databases/003_web_php/Database architectures and the web transparencies.md",
     "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf",
