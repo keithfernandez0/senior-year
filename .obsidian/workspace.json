@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "85e7f5153ea5f8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0caad73d876535c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b812157fc24648fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fall/gpu/008_midterms/midterms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "midterms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9077e2a051bc9b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c5bad79e6f3268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e981f1eafcdc090a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b73c322e312e9e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09aa5bf306aea719",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "c3c49bf8de507ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "208bf499201df897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4fe05ca565bce56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fall/hacking/002_tcp_ip/Chapter 2 - TCP+IP Concepts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 2 - TCP+IP Concepts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b812157fc24648fb",
+  "lastOpenFiles": [
+    "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf",
+    "fall/proofs/007_sets/set_theory.rnote",
+    "fall/proofs/005_contradictions/contradictions.rnote",
+    "fall/proofs/contradictions.rnote",
+    "fall/databases/008_joins/Sets and subqueries.md",
+    "fall/databases/003_web_php/Database architectures and the web transparencies.md",
+    "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf",
+    "fall/proofs/003_contrapositives_biconditionals/indirectproofsbycontrapositive.rnote",
+    "fall/proofs/002_directproof/harderdirectproofs.rnote",
+    "fall/databases/001_introduction/Chapter 1 - Introduction to databases.md",
+    "fall/databases/002_basic_sql/Structure Query Language Data Manipulation.md",
+    "fall/algorithms/001_introduction/Analysis of Algorithms Course Overview.md",
+    "fall/algorithms/resources/slides/CPS3440_unit1_lecture4_0915.pdf",
+    "fall/algorithms/001_introduction/Insertion sort review.md",
+    "fall/algorithms/001_introduction/Merge sort review.md",
+    "fall/algorithms/002_divide_and_conquer/notes.md",
+    "fall/algorithms/003_sorting_searching/notes.md",
+    "fall/algorithms/004_treegraph_algos/notes.md",
+    "fall/hacking/014_finals/notes.md",
+    "fall/hacking/013_network_protections/notes.md",
+    "fall/hacking/012_cryptography/notes.md",
+    "fall/hacking/011_wireless/notes.md",
+    "fall/hacking/010_webhacking/notes.md",
+    "fall/hacking/009_embedded_os/notes.md",
+    "fall/hacking/008_os_vulns/notes.md",
+    "fall/hacking/007_midterm/notes.md",
+    "fall/hacking/006_secure_programming/notes.md",
+    "fall/hacking/005_enumeration/notes.md",
+    "fall/hacking/004_footprinting_social_engineering/notes.md",
+    "fall/hacking/003_network_attks/notes.md",
+    "template.md",
+    "fall/hacking/notes (1).md",
+    "fall/hacking/notes.md",
+    "fall/hacking/resources/014_finals",
+    "fall/hacking/resources/013_network_protections",
+    "fall/hacking/resources/012_cryptography",
+    "fall/hacking/resources/NETW238-textbook.png",
+    "fall/hacking/resources/Resources/IMG_0930.JPG",
+    "fall/hacking/resources/Resources/IMG_0395.PNG",
+    "fall/hacking/resources/Resources/IMG_0931.JPG",
+    "fall/hacking/resources/Resources/IMG_1434.JPG",
+    "fall/hacking/resources/Resources/IMG_2040.JPG"
+  ]
+}
