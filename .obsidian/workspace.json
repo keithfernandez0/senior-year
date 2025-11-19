@@ -11,15 +11,12 @@
             "id": "b812157fc24648fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "fall/gpu/008_midterms/midterms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "fall/databases/syllabus.pdf"
               },
-              "icon": "lucide-file",
-              "title": "midterms"
+              "icon": "lucide-file-text",
+              "title": "syllabus"
             }
           }
         ]
@@ -120,6 +117,13 @@
   },
   "active": "b812157fc24648fb",
   "lastOpenFiles": [
+    "fall/databases/resources/Slides/CPS3740_day18_ch08_var_temp.pdf",
+    "fall/databases/resources/Slides/CPS3740_day17_multiple_rows_image.pdf",
+    "fall/databases/resources/Slides/CPS3740_day17_review_midterm2.pdf",
+    "fall/databases/resources/Slides/CPS3740_day19_midterm2.pdf",
+    "fall/databases/resources/Slides/CPS3740_day30_XAMPP.pdf",
+    "fall/databases/018_midterm2/notes.md",
+    "fall/gpu/008_midterms/midterms.md",
     "fall/databases/resources/Slides/CPS3740_day06_ch06_set_subquery.pdf",
     "fall/proofs/007_sets/set_theory.rnote",
     "fall/proofs/005_contradictions/contradictions.rnote",
@@ -128,11 +132,9 @@
     "fall/databases/003_web_php/Database architectures and the web transparencies.md",
     "fall/databases/resources/Slides/CPS3740_day05_ch03_29_PHP_CGI.pdf",
     "fall/proofs/003_contrapositives_biconditionals/indirectproofsbycontrapositive.rnote",
-    "fall/proofs/002_directproof/harderdirectproofs.rnote",
     "fall/databases/001_introduction/Chapter 1 - Introduction to databases.md",
     "fall/databases/002_basic_sql/Structure Query Language Data Manipulation.md",
     "fall/algorithms/001_introduction/Analysis of Algorithms Course Overview.md",
-    "fall/algorithms/resources/slides/CPS3440_unit1_lecture4_0915.pdf",
     "fall/algorithms/001_introduction/Insertion sort review.md",
     "fall/algorithms/001_introduction/Merge sort review.md",
     "fall/algorithms/002_divide_and_conquer/notes.md",
@@ -151,11 +153,6 @@
     "fall/hacking/004_footprinting_social_engineering/notes.md",
     "fall/hacking/003_network_attks/notes.md",
     "template.md",
-    "fall/hacking/notes (1).md",
-    "fall/hacking/notes.md",
-    "fall/hacking/resources/014_finals",
-    "fall/hacking/resources/013_network_protections",
-    "fall/hacking/resources/012_cryptography",
     "fall/hacking/resources/NETW238-textbook.png",
     "fall/hacking/resources/Resources/IMG_0930.JPG",
     "fall/hacking/resources/Resources/IMG_0395.PNG",
